@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there ヾ(≧▽≦*)o  </h1>
-
 <div align="center">
-  <img src="https://www.freeimg.cn/i/2024/01/05/6597960bcf38f.gif"></img>
+  
+  ![](https://github-readme-stats.vercel.app/api?username=firegoldfish&show_icons=true)
+
 </div>
+
 
 <h2 align="center">🤔我是...</h2>
 
